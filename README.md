@@ -18,9 +18,6 @@ A fully interactive Power BI dashboard providing comprehensive IPL insights from
 
 <img src="https://img.shields.io/badge/Made%20With-Power%20BI-yellow?style=for-the-badge"/>
 
-<img src="Dashboard.png"/>
-<img src="Dashboard2.png"/>
-
 
 </p>
 
