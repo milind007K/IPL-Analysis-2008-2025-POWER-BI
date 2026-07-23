@@ -30,7 +30,9 @@ A fully interactive Power BI dashboard providing comprehensive IPL insights from
 
 <p align="center">
 
-<img src="images/dashboard.png" width="100%">
+<img src="Dashboard.png"/>
+<img src="Dashboard2.png"/>
+
 
 </p>
 
