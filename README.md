@@ -6,6 +6,18 @@ A fully interactive Power BI dashboard providing comprehensive IPL insights from
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data-2008--2025-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Made%20With-Power%20BI-yellow?style=for-the-badge"/>
+
 <img src="Dashboard.png"/>
 <img src="Dashboard2.png"/>
 
@@ -417,21 +429,9 @@ This dashboard helps users understand
 
 📍 Ramdeobaba University
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/milind007k/
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
-
----
-
-# ⭐ Support
-
-If you found this project useful,
-
-⭐ Star this repository
-
-🍴 Fork it
-
-📢 Share it with others
+🐙 GitHub: https://github.com/milind007K
 
 ---
 
