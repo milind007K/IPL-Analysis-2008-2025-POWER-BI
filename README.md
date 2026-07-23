@@ -6,17 +6,9 @@ A fully interactive Power BI dashboard providing comprehensive IPL insights from
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="Dashboard.png"/>
+<img src="Dashboard2.png"/>
 
-<img src="https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data-2008--2025-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Made%20With-Power%20BI-yellow?style=for-the-badge"/>
 
 </p>
 
